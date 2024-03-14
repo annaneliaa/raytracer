@@ -1,0 +1,3 @@
+/Users/annavisman/stack/RUG/CS/Year3/CG/Assignments/A4/raytracer_2/raytracer_2/build/CMakeFiles/ray.dir
+/Users/annavisman/stack/RUG/CS/Year3/CG/Assignments/A4/raytracer_2/raytracer_2/build/CMakeFiles/edit_cache.dir
+/Users/annavisman/stack/RUG/CS/Year3/CG/Assignments/A4/raytracer_2/raytracer_2/build/CMakeFiles/rebuild_cache.dir

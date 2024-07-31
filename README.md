@@ -1,3 +1,3 @@
 # CG Frameworks
 
-This repository contains the skeleton code you will need for each of the assignments of the Computer Graphics course. As the course progresses, the new frameworks will be added.
+This repository contains a backup version of my code for a simple raytracer implementation in C++ for a Computer Graphics course. 
